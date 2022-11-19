@@ -1,0 +1,5 @@
+﻿  1_3_c_language_structure.c
+C:\Users\user\Documents\git4\day01\1_3_c_language_structure.c(73,1): fatal  error C1004: 예기치 않은 파일의 끝이 나타났습니다.
+  2_2_basic_type.c
+C:\Users\user\Documents\git4\day01\2_2_basic_type.c(59,13): error C2054: 'main_2_2' 다음에 '('가 필요합니다.
+  코드를 생성하고 있습니다...
